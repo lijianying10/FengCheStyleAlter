@@ -15,3 +15,7 @@ Firefox 安装 Greasemonkey 插件
 添加user script 
 选从剪切板添加
 复制github上的脚本进去即可
+
+效果图
+----------------------------
+![效果图](after_alter.png)
